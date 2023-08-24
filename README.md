@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: email: 
-TP061106@mail.apu.edu.my
+jiajianjeff@gmail.com
 
 <!---
 jeffokk/jeffokk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
